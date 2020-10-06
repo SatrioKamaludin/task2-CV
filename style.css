@@ -1,0 +1,68 @@
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.profilepic {
+    display: block;
+    max-width: 15%;
+    max-height: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.hyperlink {
+    margin: auto;
+    text-align: center;
+}
+
+#linkedln, #facebook, #github, #yahoomail, #gmail, #outlook {
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.name {
+    text-align: center;
+}
+
+.carousel-item {
+    background-color: rgb(128, 128, 128);
+    margin: auto;
+}
+
+.first {
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.pendidikan, .organisasi {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align:center; 
+        margin-left:auto; 
+        margin-right:auto;
+        font-size: 20px; 
+        color: white;
+        padding: 50px;
+}
+
+.skill {
+    font-size: 20px; 
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    background-color:red;
+}
